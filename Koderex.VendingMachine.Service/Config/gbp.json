@@ -1,0 +1,34 @@
+{
+  "alpha2Code": "GB",
+  "currency": {
+    "code": "GBP",
+    "name": "British pound",
+    "symbol": "£",
+    "coins": [
+      {
+        "symbol": "p",
+        "value": 1
+      },
+      {
+        "symbol": "p",
+        "value": 2
+      },
+      {
+        "symbol": "p",
+        "value": 5
+      },
+      {
+        "symbol": "p",
+        "value": 10
+      },
+      {
+        "symbol": "p",
+        "value": 20
+      },
+      {
+        "symbol": "p",
+        "value": 50
+      }
+    ]
+  }
+}
