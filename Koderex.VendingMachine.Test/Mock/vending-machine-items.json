@@ -1,0 +1,138 @@
+{
+  "chips": [
+    {
+      "position": {
+        "row": "A",
+        "column": 1
+      },
+      "item": "chips1",
+      "price": 1.10
+    },
+    {
+      "position": {
+        "row": "A",
+        "column": 2
+      },
+      "item": "chips2",
+      "price": 1.22
+    },
+    {
+      "position": {
+        "row": "A",
+        "column": 3
+      },
+      "item": "chips3",
+      "price": 1.25
+    },
+    {
+      "position": {
+        "row": "A",
+        "column": 4
+      },
+      "item": "chips4",
+      "price": 0.80
+    }
+  ],
+  "chocolates": [
+    {
+      "position": {
+        "row": "B",
+        "column": 1
+      },
+      "item": "chocolate1",
+      "price": 2.56
+    },
+    {
+      "position": {
+        "row": "B",
+        "column": 2
+      },
+      "item": "chocolate2",
+      "price": 1.54
+    },
+    {
+      "position": {
+        "row": "B",
+        "column": 3
+      },
+      "item": "chocolate3",
+      "price": 1.55
+    },
+    {
+      "position": {
+        "row": "B",
+        "column": 4
+      },
+      "item": "chocolate4",
+      "price": 0.50
+    }
+  ],
+  "sweets": [
+    {
+      "position": {
+        "row": "C",
+        "column": 1
+      },
+      "item": "sweet1",
+      "price": 3.88
+    },
+    {
+      "position": {
+        "row": "C",
+        "column": 2
+      },
+      "item": "sweet2",
+      "price": 5.89
+    },
+    {
+      "position": {
+        "row": "C",
+        "column": 3
+      },
+      "item": "sweet3",
+      "price": 0.60
+    },
+    {
+      "position": {
+        "row": "C",
+        "column": 4
+      },
+      "item": "sweet4",
+      "price": 0.54
+    }
+  ],
+  "drinks": [
+    {
+      "position": {
+        "row": "D",
+        "column": 1
+      },
+      "item": "drink1",
+      "price": 0.10
+    },
+    {
+      "position": {
+        "row": "D",
+        "column": 2
+      },
+      "item": "drink2",
+      "price": 5.80
+    },
+    {
+      "position": {
+        "row": "D",
+        "column": 3
+      },
+      "item": "drink3",
+      "price": 5.90
+    },
+    {
+      "position": {
+        "row": "D",
+        "column": 4
+      },
+      "item": "drink4",
+      "price": 10.99
+    }
+  ]
+}

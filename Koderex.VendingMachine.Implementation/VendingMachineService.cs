@@ -76,6 +76,12 @@ namespace Koderex.VendingMachine.Implementation {
                     Denominations = denominations,
                     Coins = coinsDue
                 };
+            } catch (InsufficientExecutionStackException exception) {
+                return new PurchaseItemResponse {
+                    IsSuccessful = false,
+                    IsClientFriendlyMessage = false,
+                    Message = exception.Message
+                };
             } catch (ApplicationException exception) {
                 return new PurchaseItemResponse {
                     IsSuccessful = false,
